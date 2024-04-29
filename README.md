@@ -3,4 +3,4 @@
 ## Overview
 
 This is my coding assessment submission for Mulah Technologies using the React framework.
-gi
+Deployed at: https://mulah-assignment-crchew.netlify.app/ git 
